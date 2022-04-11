@@ -3,7 +3,7 @@
 # Stylized web3 modal themes
 
 ### Demo
-→ [w3m.tr.af](https://w3m.tr.af)
+→ [web3-modals.vercel.app](https://web3-modals.vercel.app)
 
 ### Usage
 Paste the CSS import of whichever theme at the top of your stylesheet.  
