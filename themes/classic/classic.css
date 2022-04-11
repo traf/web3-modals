@@ -1,0 +1,22 @@
+@import '../../global.css';
+@import url("https://code.tr.af/sites/web3-modals/classic.css");
+
+body,
+button {
+    font-family: 'Courier New', Courier, monospace !important;
+}
+
+body {
+    background: #D4D7DD;
+}
+
+nav,
+nav a {
+    color: #000;
+}
+
+
+button {
+    border-radius: 0;
+    font-size: 18px;
+}

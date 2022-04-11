@@ -1,0 +1,12 @@
+@import '../../global.css';
+@import url("https://code.tr.af/sites/web3-modals/vibrant.css");
+
+body {
+    background: url('bg.jpg') no-repeat center center !important;
+    background-size: cover !important;
+}
+
+button {
+    background: rgba(255,255,255,0.2) !important;
+    color: #fff !important;
+}
