@@ -48,17 +48,32 @@ a:hover {
   opacity: 1;
 }
 
-nav {
+nav,
+footer {
   justify-content: space-between;
   position: fixed;
   display: flex;
   padding: 48px;
   width: 100%;
   left: 0;
+}
+
+nav {
   top: 0;
 }
 
-nav a {
+footer {
+  bottom: 0;
+}
+
+nav a,
+footer a {
   font-size: 24px;
   padding: 0;
+}
+
+footer p {
+  font-weight: bold;
+  font-size: 24px;
+  opacity: 0.4;
 }
